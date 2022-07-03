@@ -1,0 +1,6 @@
+C:\Users\agribanov\Desktop\TimeLib\bin\Debug\TimeLib.dll
+C:\Users\agribanov\Desktop\TimeLib\bin\Debug\TimeLib.pdb
+C:\Users\agribanov\Desktop\TimeLib\obj\Debug\TimeLib.csproj.AssemblyReference.cache
+C:\Users\agribanov\Desktop\TimeLib\obj\Debug\TimeLib.csproj.CoreCompileInputs.cache
+C:\Users\agribanov\Desktop\TimeLib\obj\Debug\TimeLib.dll
+C:\Users\agribanov\Desktop\TimeLib\obj\Debug\TimeLib.pdb
